@@ -1,7 +1,7 @@
 # ESP-Fi HAR
 Paper: [ESP-Fi HAR: A low-power WiFi CSI dataset for Ad-Hoc IoT human activity recognition](https://www.sciencedirect.com/science/article/abs/pii/S1570870526000582)
 
-### Cite:
+### Cite
 ```
 Z. Wen, Y. Ruan, X. Wang, J. Zhou, H. Gao, and T. Li, "ESP-Fi HAR: A low-power WiFi CSI dataset for Ad-Hoc IoT human activity recognition," Ad Hoc Networks, vol. 186, p. 104192, 2026/05/01/ 2026, doi: https://doi.org/10.1016/j.adhoc.2026.104192.
 ```
