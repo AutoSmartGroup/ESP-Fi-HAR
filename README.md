@@ -150,7 +150,8 @@ Users are free to use, modify, and distribute the dataset for academic or commer
 
 Wen et al.,  
 "ESP-Fi HAR: A low-power WiFi CSI dataset for Ad-Hoc IoT human activity recognition",  
-Ad Hoc Networks, 2026.
+*Ad Hoc Networks*, 2026.  
+[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S1570870526000582)
 
 This dataset does not contain personally identifiable information.
 
